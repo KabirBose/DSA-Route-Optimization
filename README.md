@@ -1,6 +1,6 @@
 # Djikstra's "Shortest Path" Algorithm
 
-### Implemented by Kabir Bose, Matthew Allicock, Zuhaib Shafi
+### Implemented by Kabir Bose, Matthew Allicock, Zuhaib Shafi, Khono Tshwete
 
 # Purpose
 

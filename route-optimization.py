@@ -1,6 +1,7 @@
 #Kabir Bose: 100862410
-#Zuhaib Shafi:
-#Matthew Allicock:
+#Zuhaib Shafi: 100820952
+#Matthew Allicock: 100860998
+#Khono Tshwete: 100885011
 
 # the source node that the user will choose
 src = input("Enter a source node from A to W (eg. S): ").capitalize()
