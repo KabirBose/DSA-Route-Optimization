@@ -10,5 +10,6 @@ This project uses Djikstra's "Shortest Path" algorithm to help users find the mo
 
 1. Open the directory holding `route-optimization.py`
 2. Open the file `route-optimization.py`
-3. Enter a source node/destination
-4. Run the program using `python3 route-optimzation.py`
+3. Run the program using `python3 route-optimzation.py`
+4. Enter a source node/destination
+5. Complete
