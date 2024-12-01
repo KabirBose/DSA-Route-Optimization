@@ -9,7 +9,7 @@ A project that I completed in my Data Structures & Algorithms class that applies
 
 # Usage
 
-After you have the program running, you can simply follow the prompts that the program requires to test it out.
+After the program is running, you can simply follow the prompts that the program requires to test it out.
 
 # Credits
-Ontario Tech University
+Ontario Tech University - Al Maruf
