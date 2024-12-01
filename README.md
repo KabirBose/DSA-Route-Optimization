@@ -12,4 +12,4 @@ A project that I completed in my Data Structures & Algorithms class that applies
 After the program is running, you can simply follow the prompts that the program requires to test it out.
 
 # Credits
-Ontario Tech University - Al Maruf
+Ontario Tech University - Professor Al Maruf
